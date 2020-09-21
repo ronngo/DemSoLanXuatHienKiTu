@@ -1,0 +1,13 @@
+D:\baitap\DemSoLanXuatHienKiTu\obj\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.csprojAssemblyReference.cache
+D:\baitap\DemSoLanXuatHienKiTu\obj\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.AssemblyInfoInputs.cache
+D:\baitap\DemSoLanXuatHienKiTu\obj\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.AssemblyInfo.cs
+D:\baitap\DemSoLanXuatHienKiTu\obj\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.csproj.CoreCompileInputs.cache
+D:\baitap\DemSoLanXuatHienKiTu\bin\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.exe
+D:\baitap\DemSoLanXuatHienKiTu\bin\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.deps.json
+D:\baitap\DemSoLanXuatHienKiTu\bin\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.runtimeconfig.json
+D:\baitap\DemSoLanXuatHienKiTu\bin\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.runtimeconfig.dev.json
+D:\baitap\DemSoLanXuatHienKiTu\bin\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.dll
+D:\baitap\DemSoLanXuatHienKiTu\bin\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.pdb
+D:\baitap\DemSoLanXuatHienKiTu\obj\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.dll
+D:\baitap\DemSoLanXuatHienKiTu\obj\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.pdb
+D:\baitap\DemSoLanXuatHienKiTu\obj\Debug\netcoreapp3.1\DemSoLanXuatHienKiTu.genruntimeconfig.cache
